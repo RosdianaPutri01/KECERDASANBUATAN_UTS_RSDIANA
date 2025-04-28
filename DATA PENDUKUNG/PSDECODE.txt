@@ -1,0 +1,14 @@
+Mulai
+Input gejala tanaman
+Jika daun menguning dan bercak hitam
+    Maka diagnosis = Jamur Daun
+Else jika daun berlubang
+    Maka diagnosis = Serangga Pemakan Daun
+Else jika daun menguning dan tanaman layu
+    Maka diagnosis = Bakteri Layu
+Else jika daun menguning
+    Maka diagnosis = Wereng
+Else
+    Diagnosis tidak ditemukan
+Tampilkan diagnosis
+Selesai
