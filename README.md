@@ -1,9 +1,12 @@
 # KECERDASANBUATAN_UTS_RSDIANA
 
 Nama : Rosdiana Nim:2306003
+
+
 Dosen : Leni Fitriani, S.T., M.Kom
 
 Deskripsi Tugas
+
 1. Sistem Pakar Diagnosa Tanaman
 Kasus: Seorang petani ingin mengetahui jenis hama tanaman berdasarkan gejala:
 
@@ -35,6 +38,7 @@ Tambahkan ide pengembangan lebih lanjut.
 Aplikasikan ide ke lingkungan sekitar.
 
 Langkah Pengerjaan
+
 No 1:
 
 Menulis aturan logika berbentuk IF-THEN.
